@@ -19,7 +19,7 @@ Grade: 88%
 
 In this project, our task was to categorize text data from two different datasets. The first dataset, which we will refer to as IMDB, consists of media reviews to be classified as positive or negative. The second dataset, which we will refer to as Newsgroups, consists of newsgroups posts to be classified according to which of 20 newsgroups it was posted in. To do this, we used various models from the scikit-learn library and used grid search with cross validation to tune the hyper-parameters. With this approach, we obtained the highest accuracy (88%) on the IMDB dataset using SVM, Logistic Regression, and Linear SVC. On the Newsgroups dataset, we obtained the highest accuracy (70%) using SVM, Naive Bayes, and Linear SVC.
 
-###Project 3:
+### Project 3:
 
 Grade: 92%
 
